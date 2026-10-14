@@ -1,0 +1,13 @@
+Transaction_ID,Customer_Name,Location,Product_Purchased,Quantity,Unit_Price,Transaction_Date
+TRX-101,  rohan sharma  ,mumbai,Noise-Cancelling Headphones,2,$1500,2024-02-01
+TRX-102,Pooja Patil,PUNE,Mechanical Keyboard,1,$850,02/02/2024
+TRX-103,Amit Verma,delhi,USB-C Hub,3,$350,Feb 03 2024
+TRX-101,rohan sharma,mumbai,Noise-Cancelling Headphones,2,$1500,2024-02-01
+TRX-104,sneha kulkarni,Pune,Ergonomic Laptop Stand,1,$1200,2024-02-04
+TRX-105,  AMIT VERMA  ,Delhi,USB-C Hub,2,$350,2024-02-05
+TRX-106,vikram singh,nagpur,Wireless Gaming Mouse,2,$600,06/02/2024
+TRX-107,Neha Joshi,mumbai,Noise-Cancelling Headphones,1,$1500,2024-02-07
+TRX-108,Rohan Mane,Pune,Mechanical Keyboard,2,$850,Feb 08 2024
+TRX-102,Pooja Patil,PUNE,Mechanical Keyboard,1,$850,02/02/2024
+TRX-109,priya deshmukh,MUMBAI,Ergonomic Laptop Stand,2,$1200,2024-02-09
+TRX-110,Aniket Shinde,NAGPUR,Wireless Gaming Mouse,3,$600,10/02/2024
